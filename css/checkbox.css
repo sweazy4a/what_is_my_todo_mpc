@@ -13,7 +13,7 @@ input[type=checkbox]{
  
    input[type=checkbox]:checked::before, input[type=radio]:checked::before {
     content: '\2713\0020';
-    margin-top: 9px;
+    margin-top: 1px;
     font-family: 'Open Sans', sans-serif;
     font-weight: 800;
     color: #09ad7e!important;
